@@ -3,9 +3,19 @@
 
 
 
+############# Import Modules ################################
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import pyproj   #convert geometry files from one projection to another
+import rtree
+import shapely      #convert shapefile to database files etc.
+import geopandas as gpd
+import Fiona    #single geometry enables geopandas to work
+############################################################
+
+
+################# Read data files ##########################
 
 df = pd.read_csv('Location on computer')
 df.head()  # looking at the head
