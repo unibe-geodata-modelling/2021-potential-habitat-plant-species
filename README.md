@@ -4,7 +4,7 @@ Author: Ivana Cervenka, Master student in Plant Ecology, Institute of PLant Scie
 
 ## Introduction
 
-Since industrialisation many species face extinction caused by anthropogenic influence, i.e. habitat loss, habitat degradation, pollution, disturbance and indirectly through climate change and shifts in species composition. In science it is an approved theory that most species extinctions are caused by human impact.
+Since industrialisation many species face extinction caused by anthropogenic influence, i.e. habitat loss, habitat degradation, pollution, disturbance and indirectly through climate change and shifts in species composition and diversity. In science it is an approved theory that most species extinctions are caused by human impact.
 
 The scope of this module is to create several map animations overlaying geodata maps, historical maps and photographs with 
 species occurrence records to visualize links between habitat changes and species decline. Thes maps will be uploaded and displayed on an internet webpage.
