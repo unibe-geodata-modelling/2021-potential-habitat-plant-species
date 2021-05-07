@@ -1,6 +1,6 @@
 # CHANGES IN POPULATION DISTRIBUTION OF THREATHENED PLANT SPECIES IN SWITZERLAND SINCE 1850
 
-Author: Ivana Cervenka; Master student in Plant Ecology, IPS University of Bern
+Author: Ivana Cervenka, Master student in Plant Ecology, Institute of PLant Sciences (IPS) University of Bern
 
 ## Introduction
 
@@ -15,6 +15,7 @@ species occurrence records to visualize links between habitat changes and specie
 
 ## Methods
 
+Geodata map layers and historical maps/ photographs will be obtained by Swisstopo and the GPS coordinates from the species from InfoFlora.
 
 ## Results
 
