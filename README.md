@@ -15,7 +15,7 @@ species occurrence records to visualize links between habitat changes and specie
 
 ## Methods
 
-Geodata map layers and historical maps/ photographs will be obtained by Swisstopo and the GPS coordinates from the species from InfoFlora.
+Geodata map layers and historical maps/ photographs will be obtained by Swisstopo and the GPS coordinates of the species from InfoFlora.
 
 ## Results
 
